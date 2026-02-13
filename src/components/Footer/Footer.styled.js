@@ -17,7 +17,7 @@ export const Wrapper = styled.div`
 `
 
 export const Container = styled.div`
- max-width: 1240px;
+ max-width: 1248px;
  width: 100%;
  display: flex;
  justify-content: space-between;
